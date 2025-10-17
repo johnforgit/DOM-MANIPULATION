@@ -1,0 +1,13 @@
+.basketball .rugby .swimming .tennis .football {
+     border-radius: 10px;
+     border-color: white;
+     border-width: 100%;
+}
+
+body {
+     background-color: beige;
+}
+
+.sports-container {
+     
+}
