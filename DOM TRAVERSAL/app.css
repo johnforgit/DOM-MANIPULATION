@@ -1,0 +1,32 @@
+.container {
+    border: 2px solid #333;
+    padding: 20px;
+    margin: 20px auto;
+    width: 60%;
+    border-radius: 8px;
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.main-heading {
+    text-align: center;
+    background-color: lightseagreen;
+    font-size: large;
+    margin-bottom: 20px;
+}
+
+.movies-list {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+.list-items {
+  list-style-type: none;
+  padding: 10px;
+  margin: 5px 0;
+  background-color: #e0e0e0;
+  border-radius: 4px;
+  transition: background 0.3s;
+}
